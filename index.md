@@ -97,9 +97,10 @@ Crash reports collected through Firebase Crashlytics are retained according to G
 
 ## Children's Privacy
 
-The App is not directed toward children under the age of 13.
-We do not knowingly collect personal information from children.
-If you believe a child has provided personal information through the App, please contact us so that appropriate action can be taken.
+Tsurerukana? Fishing Japan can be used by people of all ages.
+The App does not knowingly collect personal information from users, including children.
+Because the App does not require account registration and does not collect personal information, the privacy risks for children are minimized.
+If you have questions regarding children's privacy and the App, please contact us using the contact information provided below.
 
 ## Security
 
